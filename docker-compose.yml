@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  soundphysician:
+    image: soundphysiciandocker
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - C:\Test\Output:/app/output
+    tty: true
