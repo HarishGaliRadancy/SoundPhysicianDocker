@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SoundPhysicianDocker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+appsettings.json
